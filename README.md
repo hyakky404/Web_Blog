@@ -4,7 +4,9 @@ Bài tập lớn môn Lập trình sử dụng API
 ## Mô tả
 Trang web blog tin tức và là bài tập lớn để đánh giá quá trình học tập của môn học.
 
-Trang web được xây dựng bằng framework Laravel.
+Trang web được xây dựng bằng framework Laravel và ngôn ngữ lập trình PHP.
+
+Trang web sử dụng hệ cơ sở dữ liệu MySQL.
 
 Áp dụng thiết kế RESTful API để trao đổi dữ liệu.
 
@@ -36,7 +38,7 @@ PHP: https://www.php.net/docs.php
 ## Thành viên
 Nhóm 15 - CNTT5 - K61
 
-  * 201200304
   * 201210372
+  * 201200304
   
 #### 2023. Đại học Giao thông Vận tải
